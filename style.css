@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.s2_home{
+    margin: 2% 1%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.s3_home{
+    background-color:#4e86ff ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.d_home{
+    width: 30vw;
+}
+
+.text{
+    margin: 1% 2%;
+    color: white;
+    font-size: large;
+}
