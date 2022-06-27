@@ -10,7 +10,7 @@
 }
 
 .s3_home{
-    background-color:#4e86ff ;
+    background-color:#940000d8 ;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -24,4 +24,28 @@
     margin: 1% 2%;
     color: white;
     font-size: large;
+}
+
+.contacto_ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.section_redes{
+    margin-top: 1%;
+    display: flex;
+    justify-content: center;
+    color: #FAFAFA;
+    font-size: xx-large;
+}
+
+.contacto_ul li a img{
+    height: 100%;
+    width: 50%;
+}
+
+.contact_a img{
+    height: 30%;
+    width: 15%;
 }
