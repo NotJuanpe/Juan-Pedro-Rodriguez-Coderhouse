@@ -1,8 +1,10 @@
+/*Reset de css */
 *{
     margin: 0%;
     padding: 0%;
 }
 
+/* Index */
 .s2_home{
     margin: 2% 1%;
     display: flex;
@@ -10,7 +12,7 @@
 }
 
 .s3_home{
-    background-color:#940000d8 ;
+    background-color:#ff7322d8 ;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -49,3 +51,30 @@
     height: 30%;
     width: 15%;
 }
+
+.marg-j{
+    margin: 5%;
+}
+
+.marg-j img{
+    padding-top: 3%;
+}
+
+/* Deals */
+.s1_deals{
+    margin: 2%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.s1_deals {
+    margin: 2%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.s2_deals{
+    margin: 3%;
+}
+
